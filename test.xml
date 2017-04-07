@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root_tag>
+    <stringType>text</stringType>
+    <ObjectType>
+        <TextField1>text 1</TextField1>
+        <TextField2>text 2</TextField2>
+    </ObjectType>
+    <ArrayType>
+        <TextField1>text 1</TextField1>
+        <TextField2>text 2</TextField2>
+        <SubType>
+            <TextField1>text 1</TextField1>
+            <TextField2>text 2</TextField2>
+        </SubType>
+    </ArrayType>
+    <ArrayType>
+        <TextField1>text 1</TextField1>
+        <TextField2>text 2</TextField2>
+        <SubType>
+            <TextField1>text 1</TextField1>
+            <TextField2>text 2</TextField2>
+        </SubType>
+    </ArrayType>
+    <ArrayType>
+        <TextField1>text 1</TextField1>
+        <TextField2>text 2</TextField2>
+        <SubType>
+            <TextField1>text 1</TextField1>
+            <TextField2>text 2</TextField2>
+        </SubType>
+    </ArrayType>
+    <ArrayType>
+        <TextField1>text 1</TextField1>
+        <TextField2>text 2</TextField2>
+        <SubType>
+            <TextField1>text 1</TextField1>
+            <TextField2>text 2</TextField2>
+        </SubType>
+    </ArrayType>
+    <ArrayType>
+        <TextField1>text 1</TextField1>
+        <TextField2>text 2</TextField2>
+        <SubType>
+            <TextField1>text 1</TextField1>
+            <TextField2>text 2</TextField2>
+        </SubType>
+    </ArrayType>
+</root_tag>

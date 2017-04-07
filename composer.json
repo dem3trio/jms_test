@@ -1,0 +1,20 @@
+{
+  "name": "dem3trio/jms_serializer_test",
+  "description": "test",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Daniel Gonzalez",
+      "email": "dgzaballos@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require": {
+    "jms/serializer": "1.4.2"
+  }
+}
