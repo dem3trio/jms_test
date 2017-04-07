@@ -26,6 +26,6 @@ class TestApp
         $data = file_get_contents($filePath);
         /** @var RootTag $object */
         $object = $this->serializer->deserialize($data,RootTag::class, 'xml');
-        echo 'ArrayType: '.count($object->getArrayType())."\n";
+        echo "ArrayType count for file $filePath: ".count($object->getArrayType())."\n";
     }
 }
