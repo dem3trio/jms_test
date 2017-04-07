@@ -27,7 +27,7 @@ class RootTag
      * @var \App\Model\ObjectType
      *
      * @SerializedName("ObjectType")
-     * @Type("App\Model\ArrayType")
+     * @Type("App\Model\ObjectType")
      * @XmlElement(cdata=false)
      */
     private $objectType;
